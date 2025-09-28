@@ -1,0 +1,17 @@
+//
+//  testApp.swift
+//  test
+//
+//  Created by Dmitry Lazebnyi on 29.09.2025.
+//
+
+import SwiftUI
+
+@main
+struct testApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
